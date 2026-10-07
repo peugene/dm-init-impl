@@ -1,0 +1,5 @@
+# Written by 'deliveryctl spec sync'; never edited by hand.
+source = "/home/pheuge/dm-e2e/dm-init-check"
+version = "0.1.0"
+commit = "b418234bba7c63300b2b8aaf4d9036930b8d7cee"
+tree = "14e1378826c6ada4e78c69b24f26eecb4aced7ae"
